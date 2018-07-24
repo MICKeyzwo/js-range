@@ -1,0 +1,23 @@
+{
+  "name": "js-range",
+  "version": "0.0.1",
+  "description": "range generator on ES6",
+  "main": "lib/range.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mickeyzwo/js-range.git"
+  },
+  "keywords": [
+    "range",
+    "iterator"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mickeyzwo/js-range/issues"
+  },
+  "homepage": "https://github.com/mickeyzwo/js-range#readme"
+}
